@@ -1,4 +1,4 @@
-package com.example.layout;
+package com.example.lecturepractice;
 
 import androidx.appcompat.app.AppCompatActivity;
 
